@@ -5,6 +5,8 @@
 1. Research  
 - [paper](https://github.com/biscayan/Dev_contents/tree/master/1.%20Research)  
 2. Lecture  
+- [Inflearn](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
+- [Edwith](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
 3. Book  
 4. Language  
 5. Deep learning & Machine learning  
