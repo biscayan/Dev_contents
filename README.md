@@ -10,8 +10,12 @@
 3. Book  
 4. Language  
 5. Deep learning & Machine learning  
-6. Automatic speech recognition  
-7. Algorithms & Data structures  
+- [deep learning](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
+- [speech recognition](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
+- [neural networks](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
+- [pytorch](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
+6. Algorithms & Data structures 
+
 
 
 
