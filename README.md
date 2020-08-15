@@ -3,7 +3,7 @@
 
 ## Categories
 1. Research  
-- paper  
+- [paper](https://github.com/biscayan/Dev_contents/tree/master/1.%20Research)  
 2. Lecture  
 3. Book  
 4. Language  
