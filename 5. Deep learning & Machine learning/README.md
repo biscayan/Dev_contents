@@ -1,5 +1,5 @@
 # Deep learning & Machine learning
-연구를 위하여 자주 이용하는 자료들  
+유용한 deep learning, machine learning 자료들 
 ## deep learning
 - [딥러닝 스터디 자료 모음](https://bbongcol.github.io/deep-learning-bookmarks/)
 - [overview of multi task learning](https://ruder.io/multi-task/index)
@@ -9,10 +9,15 @@
 - [top 150 rnn open source project](https://awesomeopensource.com/projects/rnn)
 - [딥러닝 학습향상을 위한 고려사항들](http://www.gisdeveloper.co.kr/?p=8443)
 - [deep learning book map](https://www.mindmeister.com/ko/812276967/_?fullscreen=1)
+## machine learning
+- [머신러닝 용어집](https://developers.google.com/machine-learning/glossary)
 ## speech recognition 
 - [kaldi](https://kaldi-asr.org/)
 - [wav file format](http://soundfile.sapp.org/doc/WaveFormat/)
-
+- [htk error list](https://www.pamanyungan.net/2017/12/htk-error-list/)
+- [kaggle mfcc tutorial](https://www.kaggle.com/ilyamich/mfcc-implementation-and-tutorial)
+- [kaggle vad](https://www.kaggle.com/holzner/voice-activity-detection-example)
+- [mozilla accents strategy](https://discourse.mozilla.org/t/feedback-needed-languages-and-accents-strategy/40352)
 ## neural networks
 - [lstm, gru](https://excelsior-cjh.tistory.com/185)
 
