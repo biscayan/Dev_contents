@@ -18,9 +18,12 @@
 - [kaggle mfcc tutorial](https://www.kaggle.com/ilyamich/mfcc-implementation-and-tutorial)
 - [kaggle vad](https://www.kaggle.com/holzner/voice-activity-detection-example)
 - [mozilla accents strategy](https://discourse.mozilla.org/t/feedback-needed-languages-and-accents-strategy/40352)
+- [wav파일 헤더구조](https://crystalcube.co.kr/123)
+- [20 best ASR datasets](https://lionbridge.ai/datasets/best-speech-recognition-datasets-for-machine-learning/)
+- [mfcc 이해하기](https://brightwon.tistory.com/11?category=718632)
 ## neural networks
 - [lstm, gru](https://excelsior-cjh.tistory.com/185)
-
+- [las](https://kaen2891.tistory.com/30)
 ## pytorch
 - [torch.uitls.data](https://pytorch.org/docs/stable/data.html#torch.utils.data.DataLoader)
 - [pytorch lstm](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)
