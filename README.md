@@ -7,11 +7,13 @@
 2. Lecture  
 - [Inflearn](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
 - [Edwith](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
+- [K-Mooc](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
+- [Khan academy](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
 3. Book
-- 국내도서
-- 해외도서  
+- [국내도서](https://github.com/biscayan/Dev_contents/tree/master/3.%20Book)
+- [해외도서](https://github.com/biscayan/Dev_contents/tree/master/3.%20Book)
 4. Language
-- python  
+- [python](https://github.com/biscayan/Dev_contents/tree/master/4.%20Language) 
 5. Deep learning & Machine learning  
 - [deep learning](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
 - [machine learning](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
