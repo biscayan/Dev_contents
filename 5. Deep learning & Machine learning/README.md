@@ -11,16 +11,6 @@
 - [deep learning book map](https://www.mindmeister.com/ko/812276967/_?fullscreen=1)
 ## machine learning
 - [머신러닝 용어집](https://developers.google.com/machine-learning/glossary)
-## speech recognition 
-- [kaldi](https://kaldi-asr.org/)
-- [wav file format](http://soundfile.sapp.org/doc/WaveFormat/)
-- [htk error list](https://www.pamanyungan.net/2017/12/htk-error-list/)
-- [kaggle mfcc tutorial](https://www.kaggle.com/ilyamich/mfcc-implementation-and-tutorial)
-- [kaggle vad](https://www.kaggle.com/holzner/voice-activity-detection-example)
-- [mozilla accents strategy](https://discourse.mozilla.org/t/feedback-needed-languages-and-accents-strategy/40352)
-- [wav파일 헤더구조](https://crystalcube.co.kr/123)
-- [20 best ASR datasets](https://lionbridge.ai/datasets/best-speech-recognition-datasets-for-machine-learning/)
-- [mfcc 이해하기](https://brightwon.tistory.com/11?category=718632)
 ## neural networks
 - [lstm, gru](https://excelsior-cjh.tistory.com/185)
 - [las](https://kaen2891.tistory.com/30)

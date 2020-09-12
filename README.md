@@ -20,7 +20,13 @@
 - [speech recognition](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
 - [neural networks](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
 - [pytorch](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
-6. Algorithms & Data structures 
+6. Speech recognition
+- [toolkit]
+- [feature]
+- [preprocessing]
+- [data]
+- [etc]
+7. Algorithms & Data structures 
 - 알고리즘 문제 사이트
 
 
