@@ -17,7 +17,6 @@
 5. Deep learning & Machine learning  
 - [deep learning](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
 - [machine learning](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
-- [speech recognition](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
 - [neural networks](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
 - [pytorch](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
 6. Speech recognition
