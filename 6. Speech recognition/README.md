@@ -1,5 +1,5 @@
 # Speech recognition 
-유용한 speech recignition 자료들 
+유용한 speech recognition 자료들 
 ## toolkit
 - [kaldi](https://kaldi-asr.org/)
 - [htk error list](https://www.pamanyungan.net/2017/12/htk-error-list/)
