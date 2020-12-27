@@ -1,6 +1,7 @@
 # Research  
 공부하기 좋은 강의들  
 ## Inflearn
+- [SQL/DB(MySQL) 기본부터 파이썬/데이터분석 활용까지](https://www.inflearn.com/course/SQL-DB-MYSQL-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/dashboard)
 - [따라하며 배우는 도커와 CI환경](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci)
 - [비전공자를 위한 개발자 취업 실전 가이드](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85/dashboard)
 - [소스트리를 사용하여 git 사용하기](https://www.inflearn.com/course/git-%EA%B0%95%EC%A2%8C-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)
