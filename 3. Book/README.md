@@ -13,3 +13,6 @@
 - [ ] [인공지능을 위한 수학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965402282&orderClick=LAG&Kc=)
 - [ ] [포르잔 C++ 바이블](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156645030&orderClick=LAG&Kc=)
 - [ ] [Deep learning for NLP and speech recognition](https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145980/ref=sr_1_2?dchild=1&keywords=fundamentals+of+speech+recognition&qid=1597666643&sr=8-2)
+- [ ] [파이썬 클린코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791161340463)
+- [ ] [프로그래머, 수학의 시대](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788997924509)
+- [ ] [Code](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LAG&Kc=)
