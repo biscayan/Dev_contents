@@ -14,6 +14,3 @@
 - [ ] [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0)
 - [ ] [파이썬 알고리즘 문제풀이](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/dashboard)
 - [ ] [홍정모의 따라하며 배우는 C++](https://www.inflearn.com/course/following-c-plus)  
-- [ ] [신호와 시스템](https://www.youtube.com/watch?v=BXLscJZwP5I&list=PL0vBOXabT8CyYCL4CInL_LWVjG3P6Aqd7)
-- [ ] [인공지능 및 기계학습 개론2](https://www.edwith.org/machinelearning2__17/joinLectures/9782)  
-- [ ] [통계학의 이해2](http://www.kmooc.kr/courses/course-v1:SookmyungK+SM_sta_009k+2020_03SM_04/about)
