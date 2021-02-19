@@ -13,5 +13,10 @@
 - [ ] [SQL/DB(MySQL) 기본부터 파이썬/데이터분석 활용까지](https://www.inflearn.com/course/SQL-DB-MYSQL-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/dashboard) 
 - [ ] [따라하며 배우는 도커와 CI환경](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci)
 - [ ] [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0)
-
 - [ ] [홍정모의 따라하며 배우는 C++](https://www.inflearn.com/course/following-c-plus)  
+- [ ] [Deep learning course 1. Neural Networks and Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Deep learning course 2. Improving Deep Neural Networks](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Deep learning course 3. Structuring Machine Learning Projects](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Deep learning course 4. Convolutional Neural Networks](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Deep learning course 5. Sequence Models](https://www.coursera.org/specializations/deep-learning)
+- [ ] [신호와 시스템](https://www.youtube.com/watch?v=BXLscJZwP5I&list=PL0vBOXabT8CyYCL4CInL_LWVjG3P6Aqd7&ab_channel=OCW-HYU)
