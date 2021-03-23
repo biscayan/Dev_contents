@@ -8,6 +8,7 @@
 - [x] [파이토치 첫걸음](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241899&orderClick=LAG&Kc=) (2020년 5월 완료)
 - [x] [실용주의 프로그래머](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261031&orderClick=LAG&Kc=) (2020년 12월 완료)
 - [x] [프로그래머의 길, 멘토에게 묻다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788991268807&orderClick=LAG&Kc=) (2021년 1월 완료)
+- [x] [Code](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LAG&Kc=) (2021년 3월 완료)
 - [ ] [밑바닥부터 시작하는 딥러닝2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241745&orderClick=LEa&Kc=) 
 - [ ] [이것이 취업을 위한 코딩테스트다 with 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243077&orderClick=LAG&Kc=)
 - [ ] [인공지능을 위한 수학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965402282&orderClick=LAG&Kc=)
@@ -16,4 +17,3 @@
 - [ ] [파이썬 코딩의 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165213190&orderClick=LET&Kc=)
 - [ ] [파이썬 클린코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791161340463)
 - [ ] [수학리부트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262625&orderClick=LEA&Kc=)
-- [ ] [Code](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LAG&Kc=)
