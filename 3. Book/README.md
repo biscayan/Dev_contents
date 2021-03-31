@@ -17,3 +17,5 @@
 - [ ] [파이썬 코딩의 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165213190&orderClick=LET&Kc=)
 - [ ] [파이썬 클린코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791161340463)
 - [ ] [수학리부트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262625&orderClick=LEA&Kc=)
+- [ ] [딥러닝 레볼루션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788947545228&orderClick=LAG&Kc=)
+- [ ] [나는 LINE 개발자입니다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242162&orderClick=LEa&Kc=)
