@@ -20,3 +20,4 @@
 - [ ] [Deep learning course 4. Convolutional Neural Networks](https://www.coursera.org/specializations/deep-learning)
 - [ ] [Deep learning course 5. Sequence Models](https://www.coursera.org/specializations/deep-learning)
 - [ ] [신호와 시스템](https://www.youtube.com/watch?v=BXLscJZwP5I&list=PL0vBOXabT8CyYCL4CInL_LWVjG3P6Aqd7&ab_channel=OCW-HYU)
+- [ ] [비전공자를 위한 개발자 취업 올인원 가이드 취업편](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%EC%B7%A8%EC%97%85%ED%8E%B8/dashboard)
