@@ -21,3 +21,5 @@
 - [ ] [수학리부트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262625&orderClick=LEA&Kc=)
 - [ ] [파이썬 알고리즘 인터뷰](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909178&orderClick=LAG&Kc=)
 - [ ] [모두의 네트워크](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505030&orderClick=LAG&Kc=)
+- [ ] [기초 신호 및 시스템](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156642657&orderClick=LAG&Kc=)
+- [ ] [커리어 스킬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160507621&orderClick=LAG&Kc=)
