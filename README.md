@@ -3,31 +3,30 @@
 
 ## Categories
 1. Research  
-- [paper](https://github.com/biscayan/Dev_contents/tree/master/1.%20Research)  
-2. Lecture  
-- [Inflearn](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
-- [Edwith](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
-- [K-Mooc](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
-- [Khan academy](https://github.com/biscayan/Dev_contents/tree/master/2.%20Lecture)
+- Paper  
+2. Lecture 
+- Boostcourse  
+- Edwith  
+- Inflearn  
+- Khan academy  
+- KOCW  
+- K-Mooc  
 3. Book
-- [국내도서](https://github.com/biscayan/Dev_contents/tree/master/3.%20Book)
-- [해외도서](https://github.com/biscayan/Dev_contents/tree/master/3.%20Book)
+- C++  
+- Career  
+- CS  
+- Math  
+- ML/DL  
+- Python  
+- Programming  
 4. Language
-- [python](https://github.com/biscayan/Dev_contents/tree/master/4.%20Language) 
+- Python  
+- C++  
 5. Deep learning & Machine learning  
-- [deep learning](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
-- [machine learning](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
-- [neural networks](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
-- [pytorch](https://github.com/biscayan/Dev_contents/tree/master/5.%20Deep%20learning%20%26%20Machine%20learning)
-6. Speech recognition
-- [toolkit](https://github.com/biscayan/Dev_contents/tree/master/6.%20Speech%20recognition)
-- [feature](https://github.com/biscayan/Dev_contents/tree/master/6.%20Speech%20recognition)
-- [preprocessing](https://github.com/biscayan/Dev_contents/tree/master/6.%20Speech%20recognition)
-- [data](https://github.com/biscayan/Dev_contents/tree/master/6.%20Speech%20recognition)
-- [etc](https://github.com/biscayan/Dev_contents/tree/master/6.%20Speech%20recognition)
-7. Algorithms & Data structures 
-- 알고리즘 문제 사이트
-
-
-
-
+- Deep learning  
+- Machine learning  
+- Neural networks  
+- Pytorch
+6. Speech techniques
+- Speech recognition  
+- Speech synthesis  
