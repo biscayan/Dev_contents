@@ -30,3 +30,8 @@
 6. Speech techniques
 - Speech recognition  
 - Speech synthesis  
+7. CS
+- Data structure
+- Database
+- Network
+- OS
